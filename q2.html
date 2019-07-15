@@ -51,6 +51,17 @@
 		</div>
 		
 		<script src="js/pokeQuiz.js"></script>
+		
+		<footer>
+        	
+            <hr>
+            <img src="img/logo.png" alt = "CSUMB Logo" /> <br />
+            CST 336 Internet Programming. 2019&copy; West <br />
+            <strong>Disclaimer :</strong> The information 
+            in this webpage is fictitious.<br />
+            It is used for academic purposes only.
+            
+        </footer>
     
     </body>
     
